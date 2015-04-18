@@ -1,3 +1,9 @@
+GIT
+  remote: https://gist.github.com/03c09b654ac28d783841.git
+  revision: 46e00bae902216794665ff6e8b10f2907826dbe1
+  specs:
+    ogin_ok (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -57,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ogin_ok!
   rake
   ruboty-alias
   ruboty-cron
